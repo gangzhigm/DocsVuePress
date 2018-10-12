@@ -1,0 +1,12 @@
+{
+  "name": "oh~",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "note:docs:dev":"开发编译",
+    "docs:build": "vuepress build docs",
+    "note:docs:build":"生产编译"
+  }
+}
