@@ -4,9 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "note:docs:dev":"开发编译",
-    "docs:build": "vuepress build docs",
-    "note:docs:build":"生产编译"
+    "dev": "vuepress dev docs",
+    "note:dev":"开发编译",
+    "build": "vuepress build docs",
+    "note:build":"生产编译"
   }
 }
